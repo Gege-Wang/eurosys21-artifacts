@@ -7,7 +7,7 @@ source ../common/set-cpus.sh
 source ../common/network.sh
 source ../common/nginx.sh
 
-IMAGES=images/
+IMAGES=images
 BASEIP=172.190.0
 LOG=rawdata/microvm-fc-nginx.txt
 mkdir -p rawdata

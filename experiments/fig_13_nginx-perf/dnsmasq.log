@@ -1,0 +1,2562 @@
+dnsmasq: started, version 2.86 cachesize 150
+dnsmasq: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset auth cryptohash DNSSEC loop-detect inotify dumpfile
+dnsmasq-dhcp: DHCP, IP range 172.190.0.2 -- 172.190.0.254, lease time 12h
+dnsmasq-dhcp: DHCP, sockets bound exclusively to interface tux0
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: read /etc/hosts - 7 addresses
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: exiting on receipt of SIGTERM
+2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: exiting on receipt of SIGTERM
+server 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.2.0.17#53
+dnsmasq: using nameserver 119.29.29.29#53
+dnsmasq: exiting on receipt of SIGTERM

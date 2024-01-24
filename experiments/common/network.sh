@@ -26,9 +26,9 @@ function kill_dhcp {
 [[ -z "${CONN_LATENCY}" ]] && CONN_LATENCY=0
 
 function create_bridge {
-    brctl addbr $1 || true
-    tc qdisc add dev $1 root netem delay ${CONN_LATENCY}ms
-    ifconfig $1 ${2}.1
+   sudo brctl addbr $1 || true
+   sudo tc qdisc add dev $1 root netem delay ${CONN_LATENCY}ms
+   sudo ifconfig $1 ${2}.1
 }
 
 function delete_bridge {

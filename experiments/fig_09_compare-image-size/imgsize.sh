@@ -4,7 +4,7 @@ mkdir -p results
 
 #./impl/alpine-size.sh
 #./impl/docker-size.sh
-#./impl/hermitux-light-size.sh
+./impl/hermitux-light-size.sh
 echo "Running hermitux..."
 ./impl/hermitux-size.sh
 echo "Running lupine..."
@@ -19,3 +19,4 @@ echo "Running mirage..."
 ./impl/mirage-size.sh
 echo "Running unikraft..."
 ./impl/unikraft-size.sh
+

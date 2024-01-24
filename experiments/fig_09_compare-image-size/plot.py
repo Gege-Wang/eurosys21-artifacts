@@ -20,7 +20,7 @@ pp = pprint.PrettyPrinter(indent=4)
 
 def plot(data=None, output=None):
   WORKDIR = os.getcwd()
-  RESULTSDIR = data
+  RESULTSDIR = 'results'
   RESULTEXT = '.csv'
   IMAGESTAT = 'imagestats'
   IMAGE_SIZE_KEY = 'image_size'
@@ -76,8 +76,11 @@ def plot(data=None, output=None):
         apps.append(app)
 
       with open(os.path.join(RESULTSDIR, f), 'r') as csvfile:
-        size= int(csvfile.readline())
-        imagestats[unikernel][app] = size
+        size= csvfile.readline().strip()
+      if size:
+        imagestats[unikernel][app] = int(size)
+      else:
+        imagestats[unikernel][app] = 1110000
 
   # General style
   common_style(plt)
@@ -186,6 +189,8 @@ def plot(data=None, output=None):
 
   # Save to file
   fig.tight_layout()
+  print(output)
+  output = 'size.png'
   fig.savefig(output) #, bbox_extra_artists=(ax1,), bbox_inches='tight')
 
 if __name__ == '__main__':
