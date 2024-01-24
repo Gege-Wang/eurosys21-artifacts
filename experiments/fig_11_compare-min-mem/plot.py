@@ -47,7 +47,7 @@ pp = pprint.PrettyPrinter(indent=4)
 
 def plot(data=None, output=None):
   WORKDIR = os.getcwd()
-  RESULTSDIR = data
+  RESULTSDIR = 'results'
   RESULTEXT = '.csv'
   GROUP_BAR_WIDTH = .8
   DEFAULT = '_'
@@ -194,6 +194,7 @@ def plot(data=None, output=None):
 
   # Save to file
   fig.tight_layout()
+  output = 'minmem.png'
   fig.savefig(output) #, bbox_extra_artists=(ax1,), bbox_inches='tight')
 
 

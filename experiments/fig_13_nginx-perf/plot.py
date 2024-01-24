@@ -20,7 +20,7 @@ import pprint
 pp = pprint.PrettyPrinter(indent=4)
 
 def plot(data=None, output=None):
-  RESULTSDIR = data
+  RESULTSDIR = 'results'
   RESULTEXT = '.csv'
   GROUP_BAR_WIDTH = .4
   DEFAULT = '_'
@@ -43,14 +43,14 @@ def plot(data=None, output=None):
     'docker': 'Docker Native',
     'hermitux-uhyve': 'Hermitux uHyve',
     'osv-qemu': 'OSv KVM',
-    'rump-qemu': 'Rump KVM',
-    'microvm-qemu': 'Linux KVM',
-    'lupine-qemu': 'Lupine KVM',
-    'lupine-fc': 'Lupine FC',
+    #'rump-qemu': 'Rump KVM',
+    #'microvm-qemu': 'Linux KVM',
+    #'lupine-qemu': 'Lupine KVM',
+    #'lupine-fc': 'Lupine FC',
     'native': 'Linux Native',
-    'microvm-fc': 'Linux FC',
-    'mirage-solo5': 'Mirage Solo5'
-  }
+    #'microvm-fc': 'Linux FC',
+    #'mirage-solo5': 'Mirage Solo5'
+    }
 
   for f in os.listdir(RESULTSDIR):
     if f.endswith(RESULTEXT):
@@ -72,7 +72,8 @@ def plot(data=None, output=None):
         throughput = []
 
         for row in csvdata:
-          throughput.append(float(row[0]) / 1000)
+            if row and len(row) > 0:
+                throughput.append(float(row[0]) / 1000)
       
         throughput = np.array(throughput)
         throughput = {
@@ -115,14 +116,14 @@ def plot(data=None, output=None):
   i = 0
   line_offset = 0
   for unikernel in [
-    'mirage-solo5',
-    'microvm-fc', 
+    #'mirage-solo5',
+    #'microvm-fc', 
     'lupine-fc', 
-    'microvm-qemu', 
-    'rump-qemu',
+    #'microvm-qemu', 
+    #'rump-qemu',
     'docker',
     'native',
-    'lupine-qemu',
+    #'lupine-qemu',
     'osv-qemu',
     'unikraft-qemu'
     ]:
@@ -176,6 +177,7 @@ def plot(data=None, output=None):
   # Save to file
   fig.tight_layout()
   plt.show()
+  output = 'nginx.png'
   fig.savefig(output) #, bbox_extra_artists=(ax1,), bbox_inches='tight')
 
 if __name__ == '__main__':

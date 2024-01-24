@@ -48,7 +48,8 @@ function dichotomic_search {
   echo "$4	$max" >> results/${3}.csv
 }
 
-for vm in "unikraft" "lupine" "rump" "microvm" "docker" "osv" "hermitux"
+#for vm in "unikraft" "lupine" "rump" "microvm" "docker" "osv" "hermitux"
+for vm in "osv"
 do
   echo "running $vm / hello"
   dichotomic_search 1 64 ${vm} hello 2> /dev/null
@@ -58,7 +59,8 @@ do
   dichotomic_search 1 64 ${vm} sqlite 2> /dev/null
 done
 
-for vm in "unikraft" "lupine" "rump" "microvm" "docker" "osv"
+#for vm in "unikraft" "lupine" "rump" "microvm" "docker" "osv"
+for vm in "osv"
 do
   echo "running $vm / nginx"
   dichotomic_search 1 64 ${vm} nginx 2> /dev/null

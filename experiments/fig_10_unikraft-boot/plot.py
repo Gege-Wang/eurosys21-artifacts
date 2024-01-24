@@ -21,7 +21,7 @@ pp = pprint.PrettyPrinter(indent=4)
 
 def plot(data=None, output=None):
   WORKDIR = os.getcwd()
-  RESULTSDIR = data
+  RESULTSDIR = 'results'
   RESULTEXT = '.csv'
 
   MINUTES = 60
@@ -317,6 +317,7 @@ def plot(data=None, output=None):
 
   # Save to file
   fig.tight_layout()
+  output = 'boot.png'
   fig.savefig(output)
 
 if __name__ == '__main__':
