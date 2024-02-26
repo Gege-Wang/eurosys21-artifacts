@@ -1,3 +1,4 @@
+#!/bin/bash
 WORKDIR=$(dirname $0)
 IMAGESDIR=$WORKDIR/../images
 
