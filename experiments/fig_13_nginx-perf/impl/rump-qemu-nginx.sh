@@ -40,6 +40,7 @@ do
         		-I if,vioif,"-net tap,script=no,ifname=$NETIF" \
         		-W if,inet,dhcp \
 			-b /tmp/rump-qemu.iso,/data \
+			-nographic
 			-- /tmp/rump-qemu.img.disposible
 
 	# make sure that the server has properly started

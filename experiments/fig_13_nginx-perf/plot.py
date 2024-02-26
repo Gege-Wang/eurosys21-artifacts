@@ -20,7 +20,7 @@ import pprint
 pp = pprint.PrettyPrinter(indent=4)
 
 def plot(data=None, output=None):
-  RESULTSDIR = 'results'
+  RESULTSDIR = 'paperresults'
   RESULTEXT = '.csv'
   GROUP_BAR_WIDTH = .4
   DEFAULT = '_'
@@ -68,14 +68,16 @@ def plot(data=None, output=None):
         csvdata = csv.reader(csvfile, delimiter="\t")
         
         next(csvdata) # skip header
-
+        print(csvdata)
         throughput = []
 
         for row in csvdata:
             if row and len(row) > 0:
+                print(row[0])
                 throughput.append(float(row[0]) / 1000)
       
         throughput = np.array(throughput)
+        print(throughput)
         throughput = {
           MEAN_KEY: np.average(throughput),
           MEDIAN_KEY: np.median(throughput),
