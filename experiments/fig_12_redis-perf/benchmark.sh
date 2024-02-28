@@ -8,7 +8,7 @@ mkdir rawdata results
 # run benchmarks
 #well ./impl/hermitux-uhyve-redis.sh
 #./impl/rump-qemu-redis.sh
-./impl/osv-qemu-redis.sh
+#./impl/osv-qemu-redis.sh
 #./impl/lupine-fc-redis.sh
 #./impl/lupine-qemu-redis.sh
 #./impl/microvm-fc-redis.sh
@@ -16,4 +16,4 @@ mkdir rawdata results
 
 #well./impl/docker-redis.sh
 #well./impl/native-redis.sh
-#well./impl/unikraft-qemu-redis.sh
+./impl/unikraft-qemu-redis.sh

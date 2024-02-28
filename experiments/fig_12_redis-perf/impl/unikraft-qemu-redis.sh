@@ -19,40 +19,40 @@ kill_qemu
 dnsmasq_pid=$(run_dhcp $NETIF $BASEIP)
 
 function cleanup {
-	# kill all children (evil)
-	kill_dhcp $dnsmasq_pid
-	kill_qemu
-	pkill -P $$
-	delete_bridge $NETIF
+        # kill all children (evil)
+        kill_dhcp $dnsmasq_pid
+        kill_qemu
+        pkill -P $$
+        delete_bridge $NETIF
 }
 
 trap "cleanup" EXIT
 
 LOG=rawdata/unikraft-qemu-redis.txt
 RESULTS=results/unikraft-qemu.csv
-echo "operation	throughput" > $RESULTS
+echo "operation throughput" > $RESULTS
 touch $LOG
 
 for j in {1..5}
 do
-	taskset -c ${CPU1} ./qemu-guest \
-		-i data/redis.cpio \
-		-k ${IMAGES}/unikraft+mimalloc.kernel \
-		-a "/redis.conf" -m 1024 -p ${CPU2} \
-		-b ${NETIF} -x
+        taskset -c ${CPU1} ./qemu-guest \
+                -i data/redis.cpio \
+                -k ${IMAGES}/unikraft+mimalloc.kernel \
+                -a "/redis.conf" -m 1024 -p ${CPU2} \
+                -b ${NETIF} -x
 
-	# make sure that the server has properly started
-	sleep 8
+        # make sure that the server has properly started
+        sleep 8
 
-	ip=`cat $(pwd)/dnsmasq.log | \
-		grep "dnsmasq-dhcp: DHCPACK(${NETIF})" | \
-		tail -n 1 | awk  '{print $3}'`
+        ip=`cat $(pwd)/dnsmasq.log | \
+                grep "dnsmasq-dhcp: DHCPACK(${NETIF})" | \
+                tail -n 1 | awk  '{print $3}'`
 
-	# benchmark
-	benchmark_redis_server ${ip} 6379
+        # benchmark
+        benchmark_redis_server ${ip} 6379
 
-	parse_redis_results $LOG $RESULTS
+        parse_redis_results $LOG $RESULTS
 
-	# stop server
-	kill_qemu
+        # stop server
+        kill_qemu
 done

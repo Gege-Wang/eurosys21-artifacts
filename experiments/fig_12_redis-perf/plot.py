@@ -43,7 +43,7 @@ def plot(data=None, output=None):
   }
 
   labels = {
-    'unikraft-qemu': 'Unikraft KVM',
+    #'unikraft-qemu': 'Unikraft KVM',
     'docker': 'Docker Native',
     'hermitux-uhyve': 'Hermitux uHyve',
     'osv-qemu': 'OSv KVM',
@@ -72,8 +72,8 @@ def plot(data=None, output=None):
         for row in csvdata:
           if row[0] not in operations:
             operations[row[0]] = []
-          if row and len(row) > 0:
-            operations[row[0]].append(float(row[1])/1000.0)
+        
+          operations[row[0]].append(float(row[1])/1000.0)
         
         for operation in operations:
           all_ops = np.array(operations[operation])
@@ -125,8 +125,9 @@ def plot(data=None, output=None):
    # 'lupine-qemu',
     'docker',
     'osv-qemu',
-    'native-redis',
-    'unikraft-qemu']:
+    'native-redis'
+    #'unikraft-qemu'
+    ]:
     xlabels.append(labels[unikernel])
     operations = stats[unikernel]
 
