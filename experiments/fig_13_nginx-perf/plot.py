@@ -49,7 +49,7 @@ def plot(data=None, output=None):
     #'lupine-fc': 'Lupine FC',
     'native': 'Linux Native',
     #'microvm-fc': 'Linux FC',
-    #'mirage-solo5': 'Mirage Solo5'
+    'mirage-solo5': 'Mirage Solo5'
     }
 
   for f in os.listdir(RESULTSDIR):
@@ -118,9 +118,9 @@ def plot(data=None, output=None):
   i = 0
   line_offset = 0
   for unikernel in [
-    #'mirage-solo5',
+    'mirage-solo5',
     #'microvm-fc', 
-    'lupine-fc', 
+    #'lupine-fc', 
     #'microvm-qemu', 
     #'rump-qemu',
     'docker',
@@ -183,4 +183,4 @@ def plot(data=None, output=None):
   fig.savefig(output) #, bbox_extra_artists=(ax1,), bbox_inches='tight')
 
 if __name__ == '__main__':
-  fire.Fire(plot)
+    fire.Fire(plot)
