@@ -49,7 +49,8 @@ def plot(data=None, output=None):
     #'lupine-fc': 'Lupine FC',
     'native': 'Linux Native',
     #'microvm-fc': 'Linux FC',
-    'mirage-solo5': 'Mirage Solo5'
+    'mirage-solo5': 'Mirage Solo5',
+    'nanos-qemu': 'NanosVM'
     }
 
   for f in os.listdir(RESULTSDIR):
@@ -127,7 +128,8 @@ def plot(data=None, output=None):
     'native',
     #'lupine-qemu',
     'osv-qemu',
-    'unikraft-qemu'
+    'unikraft-qemu',
+    'nanos-qemu'
     ]:
     xlabels.append(labels[unikernel])
     throughput = stats[unikernel]
