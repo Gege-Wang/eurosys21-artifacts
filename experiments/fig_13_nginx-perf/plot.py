@@ -20,7 +20,7 @@ import pprint
 pp = pprint.PrettyPrinter(indent=4)
 
 def plot(data=None, output=None):
-  RESULTSDIR = 'paperresults'
+  RESULTSDIR = 'results'
   RESULTEXT = '.csv'
   GROUP_BAR_WIDTH = .4
   DEFAULT = '_'
@@ -41,7 +41,7 @@ def plot(data=None, output=None):
   labels = {
     'unikraft-qemu': 'Unikraft KVM',
     'docker': 'Docker Native',
-    'hermitux-uhyve': 'Hermitux uHyve',
+    #'hermitux-uhyve': 'Hermitux uHyve',
     'osv-qemu': 'OSv KVM',
     #'rump-qemu': 'Rump KVM',
     #'microvm-qemu': 'Linux KVM',
