@@ -69,10 +69,10 @@ def plot(data=None, output=None):
     'unikraft': 'Unikraft',
     'docker': 'Docker',
     'hermitux': 'Hermitux',
-    'lupine': 'Lupine',
+    #'lupine': 'Lupine',
     'osv': 'OSv',
-    'rump': 'Rumprun',
-    'microvm': 'Linux\nMicroVM'
+    #'rump': 'Rumprun',
+    #'microvm': 'Linux\nMicroVM'
   }
 
   for f in os.listdir(RESULTSDIR):
@@ -124,7 +124,15 @@ def plot(data=None, output=None):
 
   i = 0
   line_offset = 0
-  for unikernel in ['unikraft', 'docker', 'rump', 'hermitux', 'lupine', 'osv', 'microvm']:
+  for unikernel in [
+          'unikraft', 
+          'docker', 
+          #'rump', 
+          'hermitux', 
+          #'lupine', 
+          'osv' 
+          #'microvm'
+          ]:
     xlabels.append(labels[unikernel])
     apps = memstats[unikernel]
 

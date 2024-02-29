@@ -49,7 +49,7 @@ function dichotomic_search {
 }
 
 #for vm in "unikraft" "lupine" "rump" "microvm" "docker" "osv" "hermitux"
-for vm in "osv"
+for vm in "docker"
 do
   echo "running $vm / hello"
   dichotomic_search 1 64 ${vm} hello 2> /dev/null
@@ -60,7 +60,7 @@ do
 done
 
 #for vm in "unikraft" "lupine" "rump" "microvm" "docker" "osv"
-for vm in "osv"
+for vm in "docker"
 do
   echo "running $vm / nginx"
   dichotomic_search 1 64 ${vm} nginx 2> /dev/null
